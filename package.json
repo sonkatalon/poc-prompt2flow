@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "test1": "tsx test1_click.ts",
+    "test2": "tsx test2_login.ts",
+    "test3": "tsx test3_cellphone.ts"
+  },
+  "dependencies": {
+    "@anatine/zod-openapi": "^2.2.3",
+    "openai": "^4.17.0",
+    "tsx": "^3.14.0",
+    "typescript": "^5.2.2",
+    "zod": "^3.22.4"
+  }
+}
